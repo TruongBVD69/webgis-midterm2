@@ -1,0 +1,28 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Xã Mai Sao",
+          "population_density": 120
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[106.5, 21.8], [106.6, 21.8], [106.6, 21.9], [106.5, 21.9], [106.5, 21.8]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Xã Chi Lăng",
+          "population_density": 200
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[106.4, 21.7], [106.5, 21.7], [106.5, 21.8], [106.4, 21.8], [106.4, 21.7]]]
+        }
+      }
+    ]
+  }
+  
