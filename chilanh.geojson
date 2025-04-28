@@ -1,28 +1,617 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Xã Mai Sao",
-          "population_density": 120
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [[[106.5, 21.8], [106.6, 21.8], [106.6, 21.9], [106.5, 21.9], [106.5, 21.8]]]
-        }
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.5,
+              21.8
+            ],
+            [
+              106.54,
+              21.8
+            ],
+            [
+              106.54,
+              21.84
+            ],
+            [
+              106.5,
+              21.84
+            ],
+            [
+              106.5,
+              21.8
+            ]
+          ]
+        ]
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Xã Chi Lăng",
-          "population_density": 200
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [[[106.4, 21.7], [106.5, 21.7], [106.5, 21.8], [106.4, 21.8], [106.4, 21.7]]]
-        }
+      "properties": {
+        "name": "Chi Lăng",
+        "population_density": 146
       }
-    ]
-  }
-  
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.5,
+              21.85
+            ],
+            [
+              106.54,
+              21.85
+            ],
+            [
+              106.54,
+              21.89
+            ],
+            [
+              106.5,
+              21.89
+            ],
+            [
+              106.5,
+              21.85
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Mai Sao",
+        "population_density": 233
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.5,
+              21.900000000000002
+            ],
+            [
+              106.54,
+              21.900000000000002
+            ],
+            [
+              106.54,
+              21.94
+            ],
+            [
+              106.5,
+              21.94
+            ],
+            [
+              106.5,
+              21.900000000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Bằng Mạc",
+        "population_density": 148
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.5,
+              21.95
+            ],
+            [
+              106.54,
+              21.95
+            ],
+            [
+              106.54,
+              21.99
+            ],
+            [
+              106.5,
+              21.99
+            ],
+            [
+              106.5,
+              21.95
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Thượng Cường",
+        "population_density": 197
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.5,
+              22.0
+            ],
+            [
+              106.54,
+              22.0
+            ],
+            [
+              106.54,
+              22.04
+            ],
+            [
+              106.5,
+              22.04
+            ],
+            [
+              106.5,
+              22.0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Bằng Hữu",
+        "population_density": 115
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.55,
+              21.8
+            ],
+            [
+              106.59,
+              21.8
+            ],
+            [
+              106.59,
+              21.84
+            ],
+            [
+              106.55,
+              21.84
+            ],
+            [
+              106.55,
+              21.8
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Vân An",
+        "population_density": 287
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.55,
+              21.85
+            ],
+            [
+              106.59,
+              21.85
+            ],
+            [
+              106.59,
+              21.89
+            ],
+            [
+              106.55,
+              21.89
+            ],
+            [
+              106.55,
+              21.85
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Vân Thủy",
+        "population_density": 189
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.55,
+              21.900000000000002
+            ],
+            [
+              106.59,
+              21.900000000000002
+            ],
+            [
+              106.59,
+              21.94
+            ],
+            [
+              106.55,
+              21.94
+            ],
+            [
+              106.55,
+              21.900000000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Chiến Thắng",
+        "population_density": 262
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.55,
+              21.95
+            ],
+            [
+              106.59,
+              21.95
+            ],
+            [
+              106.59,
+              21.99
+            ],
+            [
+              106.55,
+              21.99
+            ],
+            [
+              106.55,
+              21.95
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Hòa Bình",
+        "population_density": 257
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.55,
+              22.0
+            ],
+            [
+              106.59,
+              22.0
+            ],
+            [
+              106.59,
+              22.04
+            ],
+            [
+              106.55,
+              22.04
+            ],
+            [
+              106.55,
+              22.0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Quang Lang",
+        "population_density": 267
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6,
+              21.8
+            ],
+            [
+              106.64,
+              21.8
+            ],
+            [
+              106.64,
+              21.84
+            ],
+            [
+              106.6,
+              21.84
+            ],
+            [
+              106.6,
+              21.8
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Lâm Sơn",
+        "population_density": 194
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6,
+              21.85
+            ],
+            [
+              106.64,
+              21.85
+            ],
+            [
+              106.64,
+              21.89
+            ],
+            [
+              106.6,
+              21.89
+            ],
+            [
+              106.6,
+              21.85
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Nhân Lý",
+        "population_density": 191
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6,
+              21.900000000000002
+            ],
+            [
+              106.64,
+              21.900000000000002
+            ],
+            [
+              106.64,
+              21.94
+            ],
+            [
+              106.6,
+              21.94
+            ],
+            [
+              106.6,
+              21.900000000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Thượng Hoà",
+        "population_density": 278
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6,
+              21.95
+            ],
+            [
+              106.64,
+              21.95
+            ],
+            [
+              106.64,
+              21.99
+            ],
+            [
+              106.6,
+              21.99
+            ],
+            [
+              106.6,
+              21.95
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Quan Sơn",
+        "population_density": 133
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.6,
+              22.0
+            ],
+            [
+              106.64,
+              22.0
+            ],
+            [
+              106.64,
+              22.04
+            ],
+            [
+              106.6,
+              22.04
+            ],
+            [
+              106.6,
+              22.0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Vân Thanh",
+        "population_density": 205
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.65,
+              21.8
+            ],
+            [
+              106.69000000000001,
+              21.8
+            ],
+            [
+              106.69000000000001,
+              21.84
+            ],
+            [
+              106.65,
+              21.84
+            ],
+            [
+              106.65,
+              21.8
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Y Tịch",
+        "population_density": 59
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.65,
+              21.85
+            ],
+            [
+              106.69000000000001,
+              21.85
+            ],
+            [
+              106.69000000000001,
+              21.89
+            ],
+            [
+              106.65,
+              21.89
+            ],
+            [
+              106.65,
+              21.85
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Đồng Mỏ",
+        "population_density": 283
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              106.65,
+              21.900000000000002
+            ],
+            [
+              106.69000000000001,
+              21.900000000000002
+            ],
+            [
+              106.69000000000001,
+              21.94
+            ],
+            [
+              106.65,
+              21.94
+            ],
+            [
+              106.65,
+              21.900000000000002
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Chi Lăng (thị trấn)",
+        "population_density": 278
+      }
+    }
+  ]
+}
